@@ -12,6 +12,8 @@ pub fn build(b: *std.build.Builder) void {
     const mode = b.standardReleaseOptions();
 
     const exe = b.addExecutable("bomtool", "src/main.zig");
+    exe.linkLibC();
+    exe.linkSystemLibrary("curl");
     exe.setTarget(target);
     exe.setBuildMode(mode);
     exe.install();

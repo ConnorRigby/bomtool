@@ -1,12 +1,17 @@
 const std = @import("std");
 const Uri = std.Uri;
-const http = std.http;
+// const http = std.http;
+const Http = @import("http.zig");
 
 const component = @import("providers/component.zig");
 
 pub fn main() !void {
-    var allocator = std.heap.page_allocator;
-    var client: http.Client = .{.allocator = allocator};
+    var gpa = std.heap.GeneralPurposeAllocator(.{}){};
+    const allocator = gpa.allocator();
+
+    // var client: http.Client = .{.allocator = allocator};
+    var http = try Http.init(allocator);
+    defer http.deinit();
 
     // var uri = try Uri.parse("https://google.com/");
     // var request = try client.request(uri, .{}, .{});
@@ -20,7 +25,7 @@ pub fn main() !void {
     // var size = try request.readAll(buffer);
     // std.log.info("response[{d}] = {s}", .{size, buffer});
 
-    try component.get(&client, "C1525");
+    try component.get(&http, "C1525");
 
     // Prints to stderr (it's a shortcut based on `std.io.getStdErr()`)
     std.debug.print("All your {s} are belong to us.\n", .{"codebase"});
