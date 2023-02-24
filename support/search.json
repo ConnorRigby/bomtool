@@ -1,0 +1,2812 @@
+{
+  "code": 200,
+  "msg": null,
+  "result": {
+    "total": 121,
+    "paramList": [
+      {
+        "parameterName": "Package",
+        "parameterValueList": [
+          "0402"
+        ]
+      },
+      {
+        "parameterName": "Category",
+        "parameterValueList": [
+          "Chip Resistor - Surface Mount"
+        ]
+      },
+      {
+        "parameterName": "Manufacturer",
+        "parameterIdList": [
+          99
+        ],
+        "parameterValueList": [
+          "UNI-ROYAL(Uniroyal Elec)"
+        ]
+      },
+      {
+        "parameterName": "Operating Temperature Range",
+        "parameterValueList": [
+          "-55\u2103~+155\u2103"
+        ]
+      },
+      {
+        "parameterName": "Overload Voltage (Max)",
+        "parameterValueList": [
+          "50V"
+        ]
+      },
+      {
+        "parameterName": "Power(Watts)",
+        "parameterValueList": [
+          "62.5mW"
+        ]
+      },
+      {
+        "parameterName": "Resistance",
+        "parameterValueList": [
+          "1k\u03a9"
+        ]
+      },
+      {
+        "parameterName": "Temperature Coefficient",
+        "parameterValueList": [
+          "\u00b1100ppm\/\u2103"
+        ]
+      },
+      {
+        "parameterName": "Tolerance",
+        "parameterValueList": [
+          "\u00b11%"
+        ]
+      },
+      {
+        "parameterName": "Type",
+        "parameterValueList": [
+          "Thick Film Resistors"
+        ]
+      }
+    ],
+    "productList": [
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            100,
+            "0.0005",
+            "0.0005"
+          ],
+          [
+            1000,
+            "0.0004",
+            "0.0004"
+          ],
+          [
+            10000,
+            "0.0003",
+            "0.0003"
+          ]
+        ],
+        "stock": 2175609,
+        "mpn": "0402WGF1001TCE",
+        "number": "C11702",
+        "package": "0402",
+        "manufacturer": "UNI-ROYAL(Uniroyal Elec)",
+        "url": "\/product-detail\/Chip-Resistor---Surface-Mount_UNI-ROYAL-Uniroyal-Elec--0402WGF1001TCE_C11702.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20221228_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20221228_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20221228_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/99.html",
+        "component": {
+          "uuid": "0162c93b05c079a4f063ffb73f50c063",
+          "title": "0402WGF1001TCE",
+          "description": "1K\u03a9 (1001) \u00b11%",
+          "docType": 2,
+          "type": 3,
+          "szlcsc": {
+            "id": 12256,
+            "number": "C11702",
+            "step": 100,
+            "min": 100,
+            "price": 0.004793,
+            "stock": 3084800,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_12256.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/Uniroyal-Elec-0402WGF1001TCE_C11702_front_10.jpg"
+          },
+          "lcsc": {
+            "id": 12256,
+            "number": "C11702",
+            "step": 100,
+            "min": 100,
+            "price": 0.0017,
+            "stock": 1632850,
+            "url": "https:\/\/lcsc.com\/product-detail\/Chip-Resistor-Surface-Mount-UniOhm_1KR-1001-1_C11702.html"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+          },
+          "tags": [
+            "Resistors"
+          ],
+          "updateTime": 1672193703,
+          "updated_at": "2023-02-24 06:29:28",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "5.8.20",
+              "c_para": {
+                "pre": "R?",
+                "name": "0402WGF1001TCE",
+                "package": "R0402",
+                "BOM_Supplier": "LCSC",
+                "BOM_Manufacturer": "UNI-ROYAL(\u539a\u58f0)",
+                "BOM_Manufacturer Part": "0402WGF1001TCE",
+                "nameAlias": "Resistance",
+                "BOM_Supplier Part": "C11702",
+                "Resistance (Ohms)": "1K",
+                "BOM_JLCPCB Part Class": "Basic Part",
+                "Resistance": "1k\u03a9"
+              },
+              "x": 20,
+              "y": 0,
+              "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+              "uuid": "0162c93b05c079a4f063ffb73f50c063",
+              "utime": 1542385999,
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "hasIdFlag": true
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~20~0",
+            "shape": [
+              "P~show~1~2~40~0~0~rep2~0^^40~0^^M 40 -0 h-10~#000000^^0~25~3~0~2~end~~~#000000^^0~35~-1~0~2~start~~~#000000^^0~33~0^^0~M 30 -3 L 27 0 L 30 3",
+              "P~show~1~1~0~0~180~rep3~0^^0~0^^M 0 -0 h10~#000000^^0~15~3~0~1~start~~~#000000^^0~5~-1~0~1~end~~~#000000^^0~7~0^^0~M 10 3 L 13 0 L 10 -3",
+              "R~10~-4~~~20~8~#880000~1~0~none~rep4~0"
+            ],
+            "BBox": {
+              "x": -4,
+              "y": -4,
+              "width": 48,
+              "height": 8
+            },
+            "colors": []
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "15c46c25980c431398ad55a2e8041326",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "title": "R0402",
+            "docType": 4,
+            "updateTime": 1670641509,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "4f1aacec56df47e182011d22c1bd7e4f",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.5.23",
+                "c_para": {
+                  "package": "R0402",
+                  "pre": "R?",
+                  "Contributor": "lcsc",
+                  "link": "https:\/\/item.szlcsc.com\/323315.html",
+                  "3DModel": "R0402_L1.0-W0.5-H0.5"
+                },
+                "hasIdFlag": true,
+                "x": 4000,
+                "y": 3000,
+                "utime": 1670641503,
+                "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+                "importFlag": 0,
+                "transformList": "",
+                "newgId": true
+              },
+              "canvas": "CA~1000~1000~#000000~yes~#FFFFFF~10~1000~1000~line~0.5~mm~1~45~visible~0.5~4000~3000~0~none",
+              "shape": [
+                "SOLIDREGION~100~~M 4000.99 3000.9842 L 4000.99 2999.0156 L 4001.9742 2999.0156 L 4001.9742 3000.9842 Z ~solid~gge1017~~~~0",
+                "SOLIDREGION~100~~M 3999.02 2999.0156 L 3999.02 3000.9842 L 3998.0358 3000.9842 L 3998.0358 2999.0156 Z ~solid~gge1018~~~~0",
+                "SOLIDREGION~99~~M 3998.0315 3000.9842 L 3998.0315 2999.0157 L 4001.9685 2999.0157 L 4001.9685 3000.9842 Z~solid~gge1020~~~~0",
+                "SOLIDREGION~5~~M 4000.5315 3000.9055 L 4000.5315 2999.0945 L 4000.6890 2998.9370 L 4002.6600 2998.9370 L 4002.8175 2999.0945 L 4002.8175 3000.9055 L 4002.6600 3001.0630 L 4000.6890 3001.0630 Z ~solid~gge1003~~~~0",
+                "SOLIDREGION~5~~M 3999.4685 3000.9055 L 3999.4685 2999.0945 L 3999.3110 2998.9370 L 3997.3400 2998.9370 L 3997.1825 2999.0945 L 3997.1825 3000.9055 L 3997.3400 3001.0630 L 3999.3110 3001.0630 Z ~solid~gge1005~~~~0",
+                "TRACK~0.6~3~~3999.1094 3001.963 3996.2825 3001.963 3996.2825 2998.037 3999.1094 2998.037~gge1007~0",
+                "TRACK~0.6~3~~4000.8906 3001.963 4003.7175 3001.963 4003.7175 2998.037 4000.8906 2998.037~gge1006~0",
+                "PAD~RECT~4001.704~3000~2.227~2.126~1~~2~0~4000.5906 3001.063 4000.5906 2998.937 4002.8175 2998.937 4002.8175 3001.063~0~gge1002~0.0000~~Y~0~-393.7008~0.2000~4001.7040,3000.0000",
+                "PAD~RECT~3998.296~3000~2.227~2.126~1~~1~0~3999.4094 3001.063 3999.4094 2998.937 3997.1825 2998.937 3997.1825 3001.063~0~gge1004~0.0000~~Y~0~-393.7008~0.2000~3998.2960,3000.0000",
+                "CIRCLE~3998.0315~3000.9842~0.1181~0.2362~101~gge1036~0~~",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"3.937\",\"c_height\":\"1.9685\",\"c_rotation\":\"0,0,0\",\"z\":\"0\",\"c_origin\":\"3999.0158,2999.2913\",\"uuid\":\"25f113603be24a279bc54a86db776d75\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"R0402_L1.0-W0.5-H0.5\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"3998.0315 2999.0551 3998.0315 2999.0945 3998.0315 3000.9449 3998.0709 3000.9449 3998.0709 3000.9842 3998.1102 3000.9842 3998.8976 3000.9842 3998.9764 3000.9842 3999.0158 3000.9842 3999.0158 3000.9449 4000.9843 3000.9449 4000.9843 3000.9842 4001.0236 3000.9842 4001.1024 3000.9842 4001.8898 3000.9842 4001.9291 3000.9842 4001.9291 3000.9449 4001.9685 3000.9055 4001.9685 3000 4001.9685 2999.0551 4001.9291 2999.0551 4001.9291 2999.0157 4001.8898 2999.0157 4001.1024 2999.0157 4001.063 2999.0157 4001.0236 2999.0157 4000.9843 2999.0157 4000.9843 2999.0551 3999.0158 2999.0551 3999.0158 2999.0157 3998.9764 2999.0157 3998.8976 2999.0157 3998.1102 2999.0157 3998.0709 2999.0157 3998.0709 2999.0551 3998.0315 2999.0551 3998.0315 2999.0551\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~false~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~false~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~false~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~true~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 3996.3,
+                "y": 2998,
+                "width": 7.4,
+                "height": 3.9
+              }
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            5,
+            "0.2187",
+            "0.2187"
+          ],
+          [
+            50,
+            "0.1808",
+            "0.1808"
+          ],
+          [
+            150,
+            "0.1534",
+            "0.1534"
+          ],
+          [
+            500,
+            "0.1307",
+            "0.1307"
+          ],
+          [
+            2500,
+            "0.1269",
+            "0.1269"
+          ],
+          [
+            5000,
+            "0.1249",
+            "0.1249"
+          ]
+        ],
+        "stock": 1765,
+        "mpn": "T491B105K035AT",
+        "number": "C117027",
+        "package": "CASE-B-3528",
+        "manufacturer": "KEMET",
+        "url": "\/product-detail\/Tantalum-Capacitors_KEMET-T491B105K035AT_C117027.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20230101_KEMET-T491B105K035AT_C117027_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20230101_KEMET-T491B105K035AT_C117027_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20230101_KEMET-T491B105K035AT_C117027_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/435.html",
+        "component": {
+          "uuid": "f06c061afb804f5a8c7ce0e341486853",
+          "title": "T491B105K035AT",
+          "description": "",
+          "docType": 2,
+          "type": 3,
+          "szlcsc": {
+            "id": 118285,
+            "number": "C117027",
+            "step": 1,
+            "min": 1,
+            "price": 0.9262,
+            "stock": 0,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_118285.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/Tantalum-Capacitors_KEMET_C117027_1uF-105-10-35V_C117027_front_10.jpg"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+          },
+          "tags": [
+            "Tantalum Capacitors"
+          ],
+          "updateTime": 1672549804,
+          "updated_at": "2023-02-18 12:24:43",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "6.3.40",
+              "c_para": {
+                "pre": "C?",
+                "name": "T491B105K035AT",
+                "package": "CAP-SMD_L3.5-W2.8-R-RD",
+                "BOM_Supplier": "LCSC",
+                "BOM_Manufacturer": "KEMET(\u57fa\u7f8e)",
+                "BOM_Manufacturer Part": "T491B105K035AT",
+                "nameAlias": "Capacitance",
+                "Capacitance": "1uF",
+                "BOM_Supplier Part": "C117027",
+                "BOM_JLCPCB Part Class": "Extended Part"
+              },
+              "x": 15,
+              "y": 0,
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "puuid": "d7687a3218c1452287141642df3cd5ed",
+              "uuid": "f06c061afb804f5a8c7ce0e341486853",
+              "utime": 1588599524,
+              "hasIdFlag": true
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~15~0",
+            "shape": [
+              "PL~17 8 17 -8~#880000~1~0~none~rep2~0",
+              "PL~13 8 13 -8~#880000~1~0~none~rep3~0",
+              "P~show~1~1~30~0~0~rep4~0^^30~0^^M 30 0 h -10~#000000^^0~15~3~0~1~end~~~#000000^^0~25~-1~0~1~start~~~#000000^^0~23~0^^0~M 20 -3 L 17 0 L 20 3",
+              "P~show~1~2~0~0~180~rep5~0^^0~0^^M 0 0 h 10~#000000^^0~15~3~0~2~start~~~#000000^^0~5~-1~0~2~end~~~#000000^^0~7~0^^0~M 10 3 L 13 0 L 10 -3",
+              "PL~20 0 17 0~#880000~1~0~none~rep6~0",
+              "PL~13 0 10 0~#880000~1~0~none~rep7~0",
+              "PL~25 4 21 4~#880000~1~0~none~rep8~0",
+              "PL~23 6 23 2~#880000~1~0~none~rep9~0"
+            ],
+            "BBox": {
+              "x": -1.1,
+              "y": -8,
+              "width": 32.1,
+              "height": 16
+            },
+            "colors": []
+          },
+          "lcsc": {
+            "id": 118285,
+            "number": "C117027",
+            "step": 1,
+            "min": 1,
+            "price": 0.1691,
+            "stock": 2231,
+            "url": "https:\/\/lcsc.com\/product-detail\/Tantalum-Capacitors_KEMET_T491B105K035AT_1uF-105-10-35V_C117027.html"
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "83604f8206c9449ea26787471da7e1d2",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "d7687a3218c1452287141642df3cd5ed",
+            "title": "CAP-SMD_L3.5-W2.8-R-RD",
+            "docType": 4,
+            "updateTime": 1653542665,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "17a31c54b4d745e18ae6fdcf2e21da62",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.4.29",
+                "c_para": {
+                  "pre": "C?",
+                  "package": "CAP-SMD_L3.5-W2.8-R-RD",
+                  "Contributor": "lcsc",
+                  "link": "https:\/\/atta.szlcsc.com\/upload\/public\/pdf\/source\/20160107\/1457707745471.pdf",
+                  "3DModel": "CASE-B_L3.5-W2.8-H1.9"
+                },
+                "x": 4000,
+                "y": 3000,
+                "importFlag": 0,
+                "transformList": "",
+                "uuid": "d7687a3218c1452287141642df3cd5ed",
+                "utime": 1642493392,
+                "hasIdFlag": true,
+                "newgId": true
+              },
+              "canvas": "CA~1000~1000~#000000~yes~#FFFFFF~10~1000~1000~line~0.5~mm~1~45~visible~0.5~4000~3000~0~none",
+              "shape": [
+                "CIRCLE~4006.8898~2994.4882~0.1181~0.2362~101~gge1047~0~~",
+                "SOLIDREGION~12~~M 3993.937 3000.4134 L 3993.937 2999.5866 L 3997.2441 2999.5866 L 3997.2441 3000.4134 Z~solid~gge1011~~~~0",
+                "SOLIDREGION~12~~M 4006.063 3000.4134 L 4006.063 2999.5866 L 4002.7559 2999.5866 L 4002.7559 3000.4134 Z~solid~gge1012~~~~0",
+                "SOLIDREGION~12~~M 4004.8228 3002.7559 L 4004.8228 2997.2441 L 4003.9961 2997.2441 L 4003.9961 3002.7559 Z~solid~gge1013~~~~0",
+                "SOLIDREGION~12~~M 4006.8898 3005.5118 L 4006.8898 3002.7559 L 4005.2362 3002.7559 L 4005.2362 3005.5118 Z~solid~gge1014~~~~0",
+                "SOLIDREGION~12~~M 4006.8898 2994.4882 L 4006.8898 2997.2441 L 4005.2362 2997.2441 L 4005.2362 2994.4882 Z~solid~gge1015~~~~0",
+                "SOLIDREGION~99~~M 3993.1102 3005.5118 L 3993.1102 2994.4882 L 4006.8898 2994.4882 L 4006.8898 3005.5118 Z~solid~gge999~~~~0",
+                "TRACK~0.6~3~~4002.5 2994.1882 4002.5 3005.8118~gge1036~0",
+                "TRACK~0.6~3~~3992.8103 2994.1882 4007.1897 2994.1882~gge1038~0",
+                "TRACK~0.6~3~~3992.8103 3005.8118 4007.1897 3005.8118~gge1037~0",
+                "TRACK~0.6~3~~3992.8103 2994.1882 3992.8103 2994.5227~gge1035~0",
+                "TRACK~0.6~3~~3992.8103 3005.8118 3992.8103 3005.4773~gge1034~0",
+                "SOLIDREGION~3~~M 4006.8898 2993.8882 L 4006.8898 2994.7228 L 4008.6898 2994.7228 L 4008.6898 2993.8882 Z~solid~gge1007~~~~0",
+                "SOLIDREGION~3~~M 4006.8898 3006.1118 L 4006.8898 3005.2772 L 4008.6898 3005.2772 L 4008.6898 3006.1118 Z~solid~gge1008~~~~0",
+                "PAD~RECT~4007.475~3000~7.4803~9.3543~1~~1~0~4003.7348 2995.3229 4011.2152 2995.3229 4011.2152 3004.6772 4003.7348 3004.6772~0~gge1002~0~~Y~0~0.0000~0.2000~4007.4746,3000",
+                "PAD~RECT~3992.525~3000~7.4803~9.3543~1~~2~0~3988.7848 2995.3229 3996.2652 2995.3229 3996.2652 3004.6772 3988.7848 3004.6772~0~gge1003~0~~Y~0~0.0000~0.2000~3992.5254,3000",
+                "SOLIDREGION~100~~M 3993.1102 3004.3307 L 3993.1102 2995.6693 L 3995.8661 2995.6693 L 3995.8661 3004.3307 Z ~solid~gge1000~~~~0",
+                "SOLIDREGION~100~~M 4006.8898 3004.3307 L 4006.8898 2995.6693 L 4004.1339 2995.6693 L 4004.1339 3004.3307 Z ~solid~gge1001~~~~0",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"14.5669\",\"c_height\":\"11.0236\",\"c_rotation\":\"0,0,180\",\"z\":\"0\",\"c_origin\":\"3998.31,3005\",\"uuid\":\"be180c9a1661454f9e1962b18a691e3d\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"CASE-B_L3.5-W2.8-H1.9\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"4001.85 3001.1 4001.85 3000.35 4001.85 2999.65 4001.85 2998.9 4001.84 2998.9 4001.82 2998.9 4001.79 2998.9 4001.75 2998.9 4001.7 2998.9 4001.65 2998.9 4001.65 2998.6 3998.35 2998.6 3998.35 2998.9 3998.3 2998.9 3998.25 2998.9 3998.21 2998.9 3998.18 2998.9 3998.16 2998.9 3998.15 2998.9 3998.15 2999.65 3998.15 2999.7 3998.15 3000.3 3998.15 3000.34 3998.15 3000.35 3998.15 3001.1 3998.16 3001.1 3998.18 3001.1 3998.21 3001.1 3998.25 3001.1 3998.3 3001.1 3998.35 3001.1 3998.35 3001.4 4001.65 3001.4 4001.65 3001.1 4001.7 3001.1 4001.75 3001.1 4001.79 3001.1 4001.82 3001.1 4001.84 3001.1 4001.85 3001.1 4001.85 3001.1\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~false~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~false~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~true~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~false~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 3988.8,
+                "y": 2993.9,
+                "width": 22.4,
+                "height": 12.2
+              }
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.1911",
+            "0.1911"
+          ],
+          [
+            10,
+            "0.1581",
+            "0.1581"
+          ],
+          [
+            30,
+            "0.1440",
+            "0.1440"
+          ],
+          [
+            100,
+            "0.1264",
+            "0.1264"
+          ],
+          [
+            500,
+            "0.1186",
+            "0.1186"
+          ],
+          [
+            1000,
+            "0.1139",
+            "0.1139"
+          ]
+        ],
+        "stock": 19252,
+        "mpn": "T491A225K016AT",
+        "number": "C117025",
+        "package": "CASE-A-3216",
+        "manufacturer": "KEMET",
+        "url": "\/product-detail\/Tantalum-Capacitors_KEMET-T491A225K016AT_C117025.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20230101_KEMET-T491A225K016AT_C117025_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20230101_KEMET-T491A225K016AT_C117025_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20230101_KEMET-T491A225K016AT_C117025_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/435.html",
+        "component": {
+          "uuid": "1738b30f05e140379cfbf2606b7fc5c8",
+          "title": "T491A225K016AT",
+          "description": "",
+          "docType": 2,
+          "type": 3,
+          "lcsc": {
+            "id": 118283,
+            "number": "C117025",
+            "step": 5,
+            "min": 5,
+            "price": 0.1078,
+            "stock": 95,
+            "url": "https:\/\/lcsc.com\/product-detail\/Tantalum-Capacitors_KEMET_T491A225K016AT_2-2uF-225-10-16V_C117025.html"
+          },
+          "szlcsc": {
+            "id": 118283,
+            "number": "C117025",
+            "step": 5,
+            "min": 5,
+            "price": 0.594,
+            "stock": 37210,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_118283.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/Tantalum-Capacitors_KEMET_T491A225K016AT_2-2uF-225-10-16V_C117025_front_10.jpg"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+          },
+          "tags": [
+            "Tantalum Capacitors"
+          ],
+          "updateTime": 1673000922,
+          "updated_at": "2023-02-18 12:24:44",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "6.5.23",
+              "x": 395,
+              "y": 300,
+              "c_para": {
+                "pre": "C?",
+                "name": "T491A225K016AT",
+                "package": "CASE-A_3216",
+                "BOM_Supplier": "LCSC",
+                "BOM_Manufacturer": "KEMET(\u57fa\u7f8e)",
+                "BOM_Manufacturer Part": "T491A225K016AT",
+                "Capacitance": "2.2uF",
+                "nameAlias": "Capacitance",
+                "Contributor": "LCSC",
+                "BOM_Supplier Part": "C117025",
+                "BOM_JLCPCB Part Class": "Extended Part"
+              },
+              "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+              "utime": 1673000922,
+              "uuid": "1738b30f05e140379cfbf2606b7fc5c8",
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "hasIdFlag": true
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~395~300",
+            "shape": [
+              "PL~403 298 387 298~#880000~1~0~none~gge3~0",
+              "P~show~1~1~395~285~90~gge4~0^^395~285^^M 395 285 v 10~#000000^^0~398~300~270~1~end~~~#000000^^0~394~290~270~1~start~~~#000000^^0~395~292^^0~M 392 295 L 395 298 L 398 295",
+              "P~show~1~2~395~315~270~gge11~0^^395~315^^M 395 315 v -10~#000000^^0~398~300~270~2~start~~~#000000^^0~394~310~270~2~end~~~#000000^^0~395~308^^0~M 398 305 L 395 302 L 392 305",
+              "PL~395 295 395 298~#880000~1~0~none~gge18~0",
+              "PL~395 302 395 305~#880000~1~0~none~gge19~0",
+              "A~M 402.667 305.222 A 10 9 0 0 0 387.807 304.747~~#880000~1~0~none~gge20~0",
+              "PL~398 290 398 294~#880000~1~0~none~gge21~0",
+              "PL~400 292 396 292~#880000~1~0~none~gge22~0"
+            ],
+            "BBox": {
+              "x": 387,
+              "y": 284,
+              "width": 16,
+              "height": 32
+            },
+            "colors": []
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "0470e5a291f34775a5eac7c65f0bc36a",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "title": "CASE-A_3216",
+            "docType": 4,
+            "updateTime": 1661146950,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "7b58e8ff08904aa6ba5f0e9a1ea77940",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.5.5",
+                "x": 400.155,
+                "y": 300.1,
+                "c_para": {
+                  "pre": "C?",
+                  "package": "CASE-A_3216",
+                  "timeStamp": "1474160109",
+                  "sourceId": "EXHd7pjBu",
+                  "Contributor": "lcsc",
+                  "link": "https:\/\/item.szlcsc.com\/2057730.html",
+                  "3DModel": "CASE-A_L3.2-W1.6-H1.6"
+                },
+                "importFlag": 0,
+                "transformList": "",
+                "uuid": "ce25118ef0b041b8a773e71ca28ae65d",
+                "utime": 1653534749,
+                "hasIdFlag": true,
+                "uuid_3d": "dd60b208bcad430cab142cfe5b3d8455"
+              },
+              "canvas": "CA~1000~1000~black~yes~#ffffff~10~1000~1000~line~0.1~mm~0.315~0~visible~0.1~400.155~300.1~0~yes",
+              "shape": [
+                "CIRCLE~393.8555~303.2496~0.1181~0.2362~101~gge1063~0~~",
+                "SOLIDREGION~100~~M 397.0051 297.6375 L 397.0051 302.3619 L 393.8555 302.3619 L 393.8555 297.6375 Z ~solid~gge1054~~~~0",
+                "SOLIDREGION~100~~M 406.4539 297.6377 L 406.4539 302.3621 L 403.3043 302.3621 L 403.3043 297.6377 Z ~solid~gge1055~~~~0",
+                "SOLIDREGION~99~~M 393.8555 296.9504 L 406.4539 296.9504 L 406.4539 303.2496 L 393.8555 303.2496 Z ~solid~gge17~~~~0",
+                "TRACK~0.315~3~~393.955 303.25 406.355 303.25~gge1031~0",
+                "TRACK~0.315~3~~393.855 296.95 406.455 296.95~gge1029~0",
+                "TRACK~0.315~3~~398.8814 303.25 398.8961 296.95~gge1035~0",
+                "PAD~RECT~395.431~300.1~5.9055~5.35~1~~1~0~392.4778 297.425 398.3834 297.425 398.3834 302.775 392.4778 302.775~0~rep5~0~~Y~0~0~0.2~395.4306,300.1",
+                "PAD~RECT~404.879~300.1~5.9055~5.35~1~~2~0~401.9266 297.425 407.8321 297.425 407.8321 302.775 401.9266 302.775~0~rep6~0~~Y~0~0~0.2~404.8794,300.1",
+                "SOLIDREGION~12~~M 406.063 299.5866 L 406.063 300.4134 L 402.7559 300.4134 L 402.7559 299.5866 Z ~solid~gge1020~~~~0",
+                "SOLIDREGION~12~~M 394 296.9 L 394.8 296.9 L 394.8 298.2 L394,298.2 Z~solid~gge1037~~~~0",
+                "SOLIDREGION~12~~M 394.7874 303.3 L 393.9874 303.3 L 393.9874 302 L 394.7874 302 Z~solid~gge1039~~~~0",
+                "SOLIDREGION~12~~M 397.7536 299.5866 L 397.7536 300.4134 L 394.4465 300.4134 L 394.4465 299.5866 Z ~solid~gge1041~~~~0",
+                "SOLIDREGION~12~~M 395.9 297.25 L 396.7 297.25 L 396.7 302.75 L 395.9 302.75 Z ~solid~gge1044~~~~0",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"12.5984\",\"c_height\":\"6.2992\",\"c_rotation\":\"0,0,0\",\"z\":\"0\",\"c_origin\":\"400.1547,300.1\",\"uuid\":\"fdf70981c03c4853ba5eb9402bf139b0\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"CASE-A_L3.2-W1.6-H1.6\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"393.8555 297.7378 393.8555 298.7221 393.8555 301.478 393.8555 301.6354 393.8555 302.4622 393.8948 302.4622 393.9736 302.4622 394.0917 302.4622 394.2492 302.4622 394.446 302.4622 394.6429 302.4622 394.6429 303.2496 405.6665 303.2496 405.6665 302.4622 405.8633 302.4622 406.0602 302.4622 406.2176 302.4622 406.3357 302.4622 406.4145 302.4622 406.4539 302.4622 406.4539 301.478 406.4539 301.2811 406.4539 298.9189 406.4539 298.7614 406.4539 298.7221 406.4539 298.5646 406.4539 297.7378 406.4145 297.7378 406.3357 297.7378 406.2176 297.7378 406.0602 297.7378 405.8633 297.7378 405.6665 297.7378 405.6665 296.9504 394.6429 296.9504 394.6429 297.7378 394.446 297.7378 394.2492 297.7378 394.0917 297.7378 393.9736 297.7378 393.8948 297.7378 393.8555 297.7378 393.8555 297.7378\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~false~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~true~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~false~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~false~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 392.5,
+                "y": 296.9,
+                "width": 15.4,
+                "height": 6.5
+              },
+              "netColors": []
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.2195",
+            "0.2195"
+          ],
+          [
+            10,
+            "0.1847",
+            "0.1847"
+          ],
+          [
+            30,
+            "0.1698",
+            "0.1698"
+          ],
+          [
+            100,
+            "0.1512",
+            "0.1512"
+          ],
+          [
+            500,
+            "0.1429",
+            "0.1429"
+          ],
+          [
+            1000,
+            "0.1379",
+            "0.1379"
+          ]
+        ],
+        "stock": 6209,
+        "mpn": "T491A106M020AT",
+        "number": "C117023",
+        "package": "CASE-A-3216",
+        "manufacturer": "KEMET",
+        "url": "\/product-detail\/Tantalum-Capacitors_KEMET-T491A106M020AT_C117023.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20230101_KEMET-T491A106M020AT_C117023_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20230101_KEMET-T491A106M020AT_C117023_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20230101_KEMET-T491A106M020AT_C117023_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/435.html",
+        "component": {
+          "uuid": "4bb0662d7c1345f2b6ef6eb053869d56",
+          "title": "T491A106M020AT",
+          "description": "",
+          "docType": 2,
+          "type": 3,
+          "lcsc": {
+            "id": 118281,
+            "number": "C117023",
+            "step": 5,
+            "min": 5,
+            "price": 0.1107,
+            "stock": 2870,
+            "url": "https:\/\/lcsc.com\/product-detail\/Tantalum-Capacitors_KEMET_T491A106M020AT_10uF-106-20-20V_C117023.html"
+          },
+          "szlcsc": {
+            "id": 118281,
+            "number": "C117023",
+            "step": 5,
+            "min": 5,
+            "price": 0.61,
+            "stock": 1117,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_118281.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/Tantalum-Capacitors_KEMET_T491A106M020AT_10uF-106-20-20V_C117023_front_10.jpg"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+          },
+          "tags": [
+            "Tantalum Capacitors"
+          ],
+          "updateTime": 1673000910,
+          "updated_at": "2023-02-18 12:24:44",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "6.5.23",
+              "x": 395,
+              "y": 300,
+              "c_para": {
+                "pre": "C?",
+                "name": "T491A106M020AT",
+                "package": "CASE-A_3216",
+                "BOM_Supplier": "LCSC",
+                "BOM_Manufacturer": "KEMET(\u57fa\u7f8e)",
+                "BOM_Manufacturer Part": "T491A106M020AT",
+                "Capacitance": "10uF",
+                "nameAlias": "Capacitance",
+                "Contributor": "LCSC",
+                "BOM_Supplier Part": "C117023",
+                "BOM_JLCPCB Part Class": "Extended Part"
+              },
+              "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+              "utime": 1673000910,
+              "uuid": "4bb0662d7c1345f2b6ef6eb053869d56",
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "hasIdFlag": true
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~395~300",
+            "shape": [
+              "PL~397 308 397 292~#880000~1~0~none~gge25~0",
+              "PL~393 308 393 292~#880000~1~0~none~gge26~0",
+              "P~show~1~1~410~300~0~gge27~0^^410~300^^M 410 300 h -10~#000000^^0~395~303~0~1~end~~~#000000^^0~405~299~0~1~start~~~#000000^^0~403~300^^0~M 400 297 L 397 300 L 400 303",
+              "P~show~1~2~380~300~180~gge34~0^^380~300^^M 380 300 h 10~#000000^^0~395~303~0~2~start~~~#000000^^0~385~299~0~2~end~~~#000000^^0~387~300^^0~M 390 303 L 393 300 L 390 297",
+              "PL~400 300 397 300~#880000~1~0~none~gge41~0",
+              "PL~393 300 390 300~#880000~1~0~none~gge42~0",
+              "PL~405 304 401 304~#880000~1~0~none~gge43~0",
+              "PL~403 306 403 302~#880000~1~0~none~gge44~0"
+            ],
+            "BBox": {
+              "x": 379,
+              "y": 292,
+              "width": 32,
+              "height": 16
+            },
+            "colors": []
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "9a2cbdf83cac4381a631a1b8330165d9",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "title": "CASE-A_3216",
+            "docType": 4,
+            "updateTime": 1661146950,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "7b58e8ff08904aa6ba5f0e9a1ea77940",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.5.5",
+                "x": 400.155,
+                "y": 300.1,
+                "c_para": {
+                  "pre": "C?",
+                  "package": "CASE-A_3216",
+                  "timeStamp": "1474160109",
+                  "sourceId": "EXHd7pjBu",
+                  "Contributor": "lcsc",
+                  "link": "https:\/\/item.szlcsc.com\/2057730.html",
+                  "3DModel": "CASE-A_L3.2-W1.6-H1.6"
+                },
+                "importFlag": 0,
+                "transformList": "",
+                "uuid": "ce25118ef0b041b8a773e71ca28ae65d",
+                "utime": 1653534749,
+                "hasIdFlag": true,
+                "uuid_3d": "dd60b208bcad430cab142cfe5b3d8455"
+              },
+              "canvas": "CA~1000~1000~black~yes~#ffffff~10~1000~1000~line~0.1~mm~0.315~0~visible~0.1~400.155~300.1~0~yes",
+              "shape": [
+                "CIRCLE~393.8555~303.2496~0.1181~0.2362~101~gge1063~0~~",
+                "SOLIDREGION~100~~M 397.0051 297.6375 L 397.0051 302.3619 L 393.8555 302.3619 L 393.8555 297.6375 Z ~solid~gge1054~~~~0",
+                "SOLIDREGION~100~~M 406.4539 297.6377 L 406.4539 302.3621 L 403.3043 302.3621 L 403.3043 297.6377 Z ~solid~gge1055~~~~0",
+                "SOLIDREGION~99~~M 393.8555 296.9504 L 406.4539 296.9504 L 406.4539 303.2496 L 393.8555 303.2496 Z ~solid~gge17~~~~0",
+                "TRACK~0.315~3~~393.955 303.25 406.355 303.25~gge1031~0",
+                "TRACK~0.315~3~~393.855 296.95 406.455 296.95~gge1029~0",
+                "TRACK~0.315~3~~398.8814 303.25 398.8961 296.95~gge1035~0",
+                "PAD~RECT~395.431~300.1~5.9055~5.35~1~~1~0~392.4778 297.425 398.3834 297.425 398.3834 302.775 392.4778 302.775~0~rep5~0~~Y~0~0~0.2~395.4306,300.1",
+                "PAD~RECT~404.879~300.1~5.9055~5.35~1~~2~0~401.9266 297.425 407.8321 297.425 407.8321 302.775 401.9266 302.775~0~rep6~0~~Y~0~0~0.2~404.8794,300.1",
+                "SOLIDREGION~12~~M 406.063 299.5866 L 406.063 300.4134 L 402.7559 300.4134 L 402.7559 299.5866 Z ~solid~gge1020~~~~0",
+                "SOLIDREGION~12~~M 394 296.9 L 394.8 296.9 L 394.8 298.2 L394,298.2 Z~solid~gge1037~~~~0",
+                "SOLIDREGION~12~~M 394.7874 303.3 L 393.9874 303.3 L 393.9874 302 L 394.7874 302 Z~solid~gge1039~~~~0",
+                "SOLIDREGION~12~~M 397.7536 299.5866 L 397.7536 300.4134 L 394.4465 300.4134 L 394.4465 299.5866 Z ~solid~gge1041~~~~0",
+                "SOLIDREGION~12~~M 395.9 297.25 L 396.7 297.25 L 396.7 302.75 L 395.9 302.75 Z ~solid~gge1044~~~~0",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"12.5984\",\"c_height\":\"6.2992\",\"c_rotation\":\"0,0,0\",\"z\":\"0\",\"c_origin\":\"400.1547,300.1\",\"uuid\":\"fdf70981c03c4853ba5eb9402bf139b0\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"CASE-A_L3.2-W1.6-H1.6\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"393.8555 297.7378 393.8555 298.7221 393.8555 301.478 393.8555 301.6354 393.8555 302.4622 393.8948 302.4622 393.9736 302.4622 394.0917 302.4622 394.2492 302.4622 394.446 302.4622 394.6429 302.4622 394.6429 303.2496 405.6665 303.2496 405.6665 302.4622 405.8633 302.4622 406.0602 302.4622 406.2176 302.4622 406.3357 302.4622 406.4145 302.4622 406.4539 302.4622 406.4539 301.478 406.4539 301.2811 406.4539 298.9189 406.4539 298.7614 406.4539 298.7221 406.4539 298.5646 406.4539 297.7378 406.4145 297.7378 406.3357 297.7378 406.2176 297.7378 406.0602 297.7378 405.8633 297.7378 405.6665 297.7378 405.6665 296.9504 394.6429 296.9504 394.6429 297.7378 394.446 297.7378 394.2492 297.7378 394.0917 297.7378 393.9736 297.7378 393.8948 297.7378 393.8555 297.7378 393.8555 297.7378\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~false~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~true~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~false~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~false~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 392.5,
+                "y": 296.9,
+                "width": 15.4,
+                "height": 6.5
+              },
+              "netColors": []
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.2693",
+            "0.2693"
+          ],
+          [
+            10,
+            "0.2226",
+            "0.2226"
+          ],
+          [
+            30,
+            "0.2026",
+            "0.2026"
+          ],
+          [
+            100,
+            "0.1776",
+            "0.1776"
+          ],
+          [
+            500,
+            "0.1665",
+            "0.1665"
+          ],
+          [
+            1000,
+            "0.1598",
+            "0.1598"
+          ]
+        ],
+        "stock": 10361,
+        "mpn": "T491B106K020AT",
+        "number": "C117028",
+        "package": "CASE-B-3528",
+        "manufacturer": "KEMET",
+        "url": "\/product-detail\/Tantalum-Capacitors_KEMET-T491B106K020AT_C117028.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20230101_KEMET-T491B106K020AT_C117028_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20230101_KEMET-T491B106K020AT_C117028_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20230101_KEMET-T491B106K020AT_C117028_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/435.html",
+        "component": {
+          "uuid": "8ffae4d90c134379ab997093e7c3a927",
+          "title": "T491B106K020AT",
+          "description": "",
+          "docType": 2,
+          "type": 3,
+          "lcsc": {
+            "id": 118286,
+            "number": "C117028",
+            "step": 5,
+            "min": 5,
+            "price": 0.1191,
+            "stock": 1470,
+            "url": "https:\/\/lcsc.com\/product-detail\/Tantalum-Capacitors_KEMET_T491B106K020AT_10uF-106-10-20V_C117028.html"
+          },
+          "szlcsc": {
+            "id": 118286,
+            "number": "C117028",
+            "step": 5,
+            "min": 5,
+            "price": 0.704,
+            "stock": 0,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_118286.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/10uF-106-10-20V_C117028_front_10.jpg"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png",
+            "team": false
+          },
+          "tags": [
+            "Tantalum Capacitors"
+          ],
+          "updateTime": 1672549804,
+          "updated_at": "2023-02-18 12:24:44",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "6.3.40",
+              "c_para": {
+                "nameAlias": "Capacitance",
+                "name": "T491B106K020AT",
+                "package": "CAP-SMD_L3.5-W2.8-R-RD",
+                "BOM_Supplier": "LCSC",
+                "BOM_Manufacturer": "KEMET(\u57fa\u7f8e)",
+                "BOM_Manufacturer Part": "T491B106K020AT",
+                "pre": "C?",
+                "Capacitance": "10uF",
+                "BOM_Supplier Part": "C117028",
+                "BOM_JLCPCB Part Class": "Extended Part"
+              },
+              "x": 15,
+              "y": 0,
+              "puuid": "d7687a3218c1452287141642df3cd5ed",
+              "uuid": "8ffae4d90c134379ab997093e7c3a927",
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "hasIdFlag": true,
+              "utime": 1588599804
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~15~0",
+            "shape": [
+              "PL~17 8 17 -8~#880000~1~0~none~rep2~0",
+              "PL~13 8 13 -8~#880000~1~0~none~rep3~0",
+              "P~show~1~1~30~0~0~rep4~0^^30~0^^M 30 0 h -10~#000000^^0~15~3~0~1~end~~~#000000^^0~25~-1~0~1~start~~~#000000^^0~23~0^^0~M 20 -3 L 17 0 L 20 3",
+              "P~show~1~2~0~0~180~rep5~0^^0~0^^M 0 0 h 10~#000000^^0~15~3~0~2~start~~~#000000^^0~5~-1~0~2~end~~~#000000^^0~7~0^^0~M 10 3 L 13 0 L 10 -3",
+              "PL~20 0 17 0~#880000~1~0~none~rep6~0",
+              "PL~13 0 10 0~#880000~1~0~none~rep7~0",
+              "PL~25 4 21 4~#880000~1~0~none~rep8~0",
+              "PL~23 6 23 2~#880000~1~0~none~rep9~0"
+            ],
+            "BBox": {
+              "x": -1.1,
+              "y": -8,
+              "width": 32.1,
+              "height": 16
+            },
+            "colors": []
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "2609871c444644b2b05936d0a866c0d0",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "d7687a3218c1452287141642df3cd5ed",
+            "title": "CAP-SMD_L3.5-W2.8-R-RD",
+            "docType": 4,
+            "updateTime": 1653542665,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "17a31c54b4d745e18ae6fdcf2e21da62",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.4.29",
+                "c_para": {
+                  "pre": "C?",
+                  "package": "CAP-SMD_L3.5-W2.8-R-RD",
+                  "Contributor": "lcsc",
+                  "link": "https:\/\/atta.szlcsc.com\/upload\/public\/pdf\/source\/20160107\/1457707745471.pdf",
+                  "3DModel": "CASE-B_L3.5-W2.8-H1.9"
+                },
+                "x": 4000,
+                "y": 3000,
+                "importFlag": 0,
+                "transformList": "",
+                "uuid": "d7687a3218c1452287141642df3cd5ed",
+                "utime": 1642493392,
+                "hasIdFlag": true,
+                "newgId": true
+              },
+              "canvas": "CA~1000~1000~#000000~yes~#FFFFFF~10~1000~1000~line~0.5~mm~1~45~visible~0.5~4000~3000~0~none",
+              "shape": [
+                "CIRCLE~4006.8898~2994.4882~0.1181~0.2362~101~gge1047~0~~",
+                "SOLIDREGION~12~~M 3993.937 3000.4134 L 3993.937 2999.5866 L 3997.2441 2999.5866 L 3997.2441 3000.4134 Z~solid~gge1011~~~~0",
+                "SOLIDREGION~12~~M 4006.063 3000.4134 L 4006.063 2999.5866 L 4002.7559 2999.5866 L 4002.7559 3000.4134 Z~solid~gge1012~~~~0",
+                "SOLIDREGION~12~~M 4004.8228 3002.7559 L 4004.8228 2997.2441 L 4003.9961 2997.2441 L 4003.9961 3002.7559 Z~solid~gge1013~~~~0",
+                "SOLIDREGION~12~~M 4006.8898 3005.5118 L 4006.8898 3002.7559 L 4005.2362 3002.7559 L 4005.2362 3005.5118 Z~solid~gge1014~~~~0",
+                "SOLIDREGION~12~~M 4006.8898 2994.4882 L 4006.8898 2997.2441 L 4005.2362 2997.2441 L 4005.2362 2994.4882 Z~solid~gge1015~~~~0",
+                "SOLIDREGION~99~~M 3993.1102 3005.5118 L 3993.1102 2994.4882 L 4006.8898 2994.4882 L 4006.8898 3005.5118 Z~solid~gge999~~~~0",
+                "TRACK~0.6~3~~4002.5 2994.1882 4002.5 3005.8118~gge1036~0",
+                "TRACK~0.6~3~~3992.8103 2994.1882 4007.1897 2994.1882~gge1038~0",
+                "TRACK~0.6~3~~3992.8103 3005.8118 4007.1897 3005.8118~gge1037~0",
+                "TRACK~0.6~3~~3992.8103 2994.1882 3992.8103 2994.5227~gge1035~0",
+                "TRACK~0.6~3~~3992.8103 3005.8118 3992.8103 3005.4773~gge1034~0",
+                "SOLIDREGION~3~~M 4006.8898 2993.8882 L 4006.8898 2994.7228 L 4008.6898 2994.7228 L 4008.6898 2993.8882 Z~solid~gge1007~~~~0",
+                "SOLIDREGION~3~~M 4006.8898 3006.1118 L 4006.8898 3005.2772 L 4008.6898 3005.2772 L 4008.6898 3006.1118 Z~solid~gge1008~~~~0",
+                "PAD~RECT~4007.475~3000~7.4803~9.3543~1~~1~0~4003.7348 2995.3229 4011.2152 2995.3229 4011.2152 3004.6772 4003.7348 3004.6772~0~gge1002~0~~Y~0~0.0000~0.2000~4007.4746,3000",
+                "PAD~RECT~3992.525~3000~7.4803~9.3543~1~~2~0~3988.7848 2995.3229 3996.2652 2995.3229 3996.2652 3004.6772 3988.7848 3004.6772~0~gge1003~0~~Y~0~0.0000~0.2000~3992.5254,3000",
+                "SOLIDREGION~100~~M 3993.1102 3004.3307 L 3993.1102 2995.6693 L 3995.8661 2995.6693 L 3995.8661 3004.3307 Z ~solid~gge1000~~~~0",
+                "SOLIDREGION~100~~M 4006.8898 3004.3307 L 4006.8898 2995.6693 L 4004.1339 2995.6693 L 4004.1339 3004.3307 Z ~solid~gge1001~~~~0",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"14.5669\",\"c_height\":\"11.0236\",\"c_rotation\":\"0,0,180\",\"z\":\"0\",\"c_origin\":\"3998.31,3005\",\"uuid\":\"be180c9a1661454f9e1962b18a691e3d\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"CASE-B_L3.5-W2.8-H1.9\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"4001.85 3001.1 4001.85 3000.35 4001.85 2999.65 4001.85 2998.9 4001.84 2998.9 4001.82 2998.9 4001.79 2998.9 4001.75 2998.9 4001.7 2998.9 4001.65 2998.9 4001.65 2998.6 3998.35 2998.6 3998.35 2998.9 3998.3 2998.9 3998.25 2998.9 3998.21 2998.9 3998.18 2998.9 3998.16 2998.9 3998.15 2998.9 3998.15 2999.65 3998.15 2999.7 3998.15 3000.3 3998.15 3000.34 3998.15 3000.35 3998.15 3001.1 3998.16 3001.1 3998.18 3001.1 3998.21 3001.1 3998.25 3001.1 3998.3 3001.1 3998.35 3001.1 3998.35 3001.4 4001.65 3001.4 4001.65 3001.1 4001.7 3001.1 4001.75 3001.1 4001.79 3001.1 4001.82 3001.1 4001.84 3001.1 4001.85 3001.1 4001.85 3001.1\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~false~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~false~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~true~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~false~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 3988.8,
+                "y": 2993.9,
+                "width": 22.4,
+                "height": 12.2
+              }
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.1810",
+            "0.1810"
+          ],
+          [
+            10,
+            "0.1492",
+            "0.1492"
+          ],
+          [
+            30,
+            "0.1356",
+            "0.1356"
+          ],
+          [
+            100,
+            "0.1186",
+            "0.1186"
+          ],
+          [
+            500,
+            "0.1110",
+            "0.1110"
+          ],
+          [
+            1000,
+            "0.1065",
+            "0.1065"
+          ]
+        ],
+        "stock": 10194,
+        "mpn": "T491A225K010AT",
+        "number": "C117024",
+        "package": "CASE-A-3216",
+        "manufacturer": "KEMET",
+        "url": "\/product-detail\/Tantalum-Capacitors_KEMET-T491A225K010AT_C117024.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20230101_KEMET-T491A225K010AT_C117024_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20230101_KEMET-T491A225K010AT_C117024_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20230101_KEMET-T491A225K010AT_C117024_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/435.html",
+        "component": {
+          "uuid": "de7d65f6ef644f38bbc64e0eacc44a3a",
+          "title": "T491A225K010AT",
+          "description": "",
+          "docType": 2,
+          "type": 3,
+          "lcsc": {
+            "id": 118282,
+            "number": "C117024",
+            "step": 5,
+            "min": 5,
+            "price": 0.0971,
+            "stock": 7285,
+            "url": "https:\/\/lcsc.com\/product-detail\/Tantalum-Capacitors_KEMET_T491A225K010AT_2-2uF-225-10-10V_C117024.html"
+          },
+          "szlcsc": {
+            "id": 118282,
+            "number": "C117024",
+            "step": 5,
+            "min": 5,
+            "price": 0.574,
+            "stock": 20,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_118282.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/2-2uF-225-10-10V_C117024_front_10.jpg"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png",
+            "team": false
+          },
+          "tags": [
+            "Tantalum Capacitors"
+          ],
+          "updateTime": 1672549804,
+          "updated_at": "2023-02-18 12:24:44",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "6.3.15",
+              "c_para": {
+                "nameAlias": "Capacitance",
+                "name": "T491A225K010AT",
+                "package": "CAP-SMD_L3.2-W1.6",
+                "BOM_Supplier": "LCSC",
+                "BOM_Manufacturer": "KEMET(\u57fa\u7f8e)",
+                "BOM_Manufacturer Part": "T491A225K010AT",
+                "pre": "C?",
+                "Capacitance": "2.2uF",
+                "BOM_Supplier Part": "C117024",
+                "BOM_JLCPCB Part Class": "Extended Part"
+              },
+              "x": 15,
+              "y": 0,
+              "puuid": "2b2a7bab00354c19b76a8043f7520dcf",
+              "utime": 1575442284,
+              "uuid": "de7d65f6ef644f38bbc64e0eacc44a3a",
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "hasIdFlag": true
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~15~0",
+            "shape": [
+              "PL~13 -8 13 8~#880000~1~0~none~rep2~0",
+              "PL~17 -8 17 8~#880000~1~0~none~rep3~0",
+              "P~show~1~1~0~0~180~rep4~0^^0~0^^M 0 -0 h10~#000000^^0~15~3~0~1~start~~~#000000^^0~5~-1~0~1~end~~~#000000^^0~7~0^^0~M 10 3 L 13 0 L 10 -3",
+              "P~show~1~2~30~0~0~rep5~0^^30~0^^M 30 -0 h-10~#000000^^0~15~3~0~2~end~~~#000000^^0~25~-1~0~2~start~~~#000000^^0~23~0^^0~M 20 -3 L 17 0 L 20 3",
+              "PL~10 0 13 0~#880000~1~0~none~rep6~0",
+              "PL~17 0 20 0~#880000~1~0~none~rep7~0",
+              "PL~5 -4 9 -4~#880000~1~0~none~rep8~0",
+              "PL~7 -6 7 -2~#880000~1~0~none~rep9~0"
+            ],
+            "BBox": {
+              "x": -2,
+              "y": -8,
+              "width": 34,
+              "height": 16
+            },
+            "colors": []
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "f361c028e6494b9a9d4df51429f91a50",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "2b2a7bab00354c19b76a8043f7520dcf",
+            "title": "CAP-SMD_L3.2-W1.6",
+            "docType": 4,
+            "updateTime": 1650865709,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "94f5b134f257441995e74ecf431a1e6f",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.4.27",
+                "c_para": {
+                  "package": "CAP-SMD_L3.2-W1.6",
+                  "pre": "U?",
+                  "link": "https:\/\/item.szlcsc.com\/8491.html",
+                  "Contributor": "lcsc",
+                  "3DModel": "CAP-SMD_L3.2-W1.6"
+                },
+                "hasIdFlag": true,
+                "x": 4000,
+                "y": 3000,
+                "uuid": "2b2a7bab00354c19b76a8043f7520dcf",
+                "utime": 1639393382,
+                "importFlag": 0,
+                "transformList": "",
+                "newgId": true
+              },
+              "canvas": "CA~1000~1000~#000000~yes~#FFFFFF~10~1000~1000~line~0.5~mm~1~45~visible~0.393701~4000~3000~0~yes",
+              "shape": [
+                "CIRCLE~3993.701~3003.15~0.079~0.1575~101~gge110~0~~",
+                "SOLIDREGION~12~~M 3993.7008 3003.1496 L 3993.7008 3001.5748 L 3994.6457 3001.5748 L 3994.6457 3003.1496 Z ~solid~gge114~~~~0",
+                "SOLIDREGION~12~~M 3993.7008 2996.8504 L 3993.7008 2998.4252 L 3994.6457 2998.4252 L 3994.6457 2996.8504 Z ~solid~gge115~~~~0",
+                "SOLIDREGION~12~~M 3994.8819 2998.4252 L 3994.8819 3001.5748 L 3995.3543 3001.5748 L 3995.3543 2998.4252 Z ~solid~gge116~~~~0",
+                "SOLIDREGION~12~~M 3994.1732 2999.7638 L 3994.1732 3000.2362 L 3996.063 3000.2362 L 3996.063 2999.7638 Z ~solid~gge117~~~~0",
+                "SOLIDREGION~12~~M 4005.8268 2999.7638 L 4005.8268 3000.2362 L 4003.937 3000.2362 L 4003.937 2999.7638 Z ~solid~gge118~~~~0",
+                "SOLIDREGION~100~~M 4003.1496 2997.6378 L 4006.2992 2997.6378 L 4006.2992 3002.3622 L 4003.1496 3002.3622 Z ~solid~gge102~~~~0",
+                "SOLIDREGION~100~~M 3996.8504 3002.3622 L 3993.7008 3002.3622 L 3993.7008 2997.6378 L 3996.8504 2997.6378 Z~solid~gge121~~~~0",
+                "SOLIDREGION~99~~M 3993.7008 2996.8504 L 4006.2992 2996.8504 L 4006.2992 3003.1496 L 3993.7008 3003.1496 Z ~solid~gge46~~~~0",
+                "PAD~RECT~3994.685~3000~4.7244~5.5118~1~~1~0~3992.3225 2997.2441 3997.0469 2997.2441 3997.0469 3002.7559 3992.3225 3002.7559~0~gge2~0~~Y~0~0~0.2~3994.6847,3000",
+                "PAD~RECT~4005.315~3000~4.7244~5.5118~1~~2~0~4002.9531 2997.2441 4007.6775 2997.2441 4007.6775 3002.7559 4002.9531 3002.7559~0~gge12~0~~Y~0~0~0.2~4005.3153,3000",
+                "TRACK~1~3~~3993.7007 3004.5 3999.4956 3004.5 3999.4956 3004.5 4006.2992 3004.5~gge31~0",
+                "TRACK~1~3~~3993.7008 2995.5 4006.2993 2995.5~gge22~0",
+                "TRACK~1~3~~3993.7008 2995.5 3993.7008 2996.3341~gge33~0",
+                "TRACK~1~3~~3993.7008 3003.6659 3993.7008 3004.5~gge34~0",
+                "TRACK~1~3~~4006.2993 2995.5 4006.2993 2996.3341~gge37~0",
+                "TRACK~1~3~~4006.2993 3003.6659 4006.2993 3004.5~gge38~0",
+                "SOLIDREGION~3~~M 3997.5 2995.5 L 3998.5 2995.5 L 3998.5 3004.5 L 3998 3004.5 L 3997.5 3004.5 Z ~solid~gge131~~~~0",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"12.5984\",\"c_height\":\"6.2992\",\"c_rotation\":\"0,0,0\",\"z\":\"0\",\"c_origin\":\"4000,3000\",\"uuid\":\"bca56485283b4e3d8ee1ae6b5605dfa7\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"CAP-SMD_L3.2-W1.6\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"3993.7008 2997.6378 3993.7008 2998.6221 3993.7008 3001.378 3993.7008 3001.5354 3993.7008 3002.3622 3993.7402 3002.3622 3993.8189 3002.3622 3993.937 3002.3622 3994.0945 3002.3622 3994.2914 3002.3622 3994.4882 3002.3622 3994.4882 3003.1496 4005.5118 3003.1496 4005.5118 3002.3622 4005.7087 3002.3622 4005.9055 3002.3622 4006.063 3002.3622 4006.1811 3002.3622 4006.2598 3002.3622 4006.2992 3002.3622 4006.2992 3001.378 4006.2992 3001.1811 4006.2992 2998.8189 4006.2992 2998.6614 4006.2992 2998.6221 4006.2992 2998.4646 4006.2992 2997.6378 4006.2598 2997.6378 4006.1811 2997.6378 4006.063 2997.6378 4005.9055 2997.6378 4005.7087 2997.6378 4005.5118 2997.6378 4005.5118 2996.8504 3994.4882 2996.8504 3994.4882 2997.6378 3994.2914 2997.6378 3994.0945 2997.6378 3993.937 2997.6378 3993.8189 2997.6378 3993.7402 2997.6378 3993.7008 2997.6378 3993.7008 2997.6378\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~true~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~false~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~false~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~false~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 3992.3,
+                "y": 2995.5,
+                "width": 15.4,
+                "height": 9
+              },
+              "netColors": []
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.2332",
+            "0.2332"
+          ],
+          [
+            10,
+            "0.1939",
+            "0.1939"
+          ],
+          [
+            30,
+            "0.1770",
+            "0.1770"
+          ],
+          [
+            100,
+            "0.1560",
+            "0.1560"
+          ],
+          [
+            500,
+            "0.1466",
+            "0.1466"
+          ],
+          [
+            1000,
+            "0.1410",
+            "0.1410"
+          ]
+        ],
+        "stock": 1099,
+        "mpn": "T491B155K025AT",
+        "number": "C117029",
+        "package": "CASE-B-3528",
+        "manufacturer": "KEMET",
+        "url": "\/product-detail\/Tantalum-Capacitors_KEMET-T491B155K025AT_C117029.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20230101_KEMET-T491B155K025AT_C117029_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20230101_KEMET-T491B155K025AT_C117029_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20230101_KEMET-T491B155K025AT_C117029_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/435.html",
+        "component": {
+          "uuid": "34288135f610455084a496432508665e",
+          "title": "T491B155K025AT",
+          "description": "",
+          "docType": 2,
+          "type": 3,
+          "lcsc": {
+            "id": 118287,
+            "number": "C117029",
+            "step": 1,
+            "min": 1,
+            "price": 0.1742,
+            "stock": 5947,
+            "url": "https:\/\/lcsc.com\/product-detail\/Tantalum-Capacitors_KEMET_T491B155K025AT_1-5uF-155-10-25V_C117029.html"
+          },
+          "szlcsc": {
+            "id": 118287,
+            "number": "C117029",
+            "step": 1,
+            "min": 1,
+            "price": 1.03,
+            "stock": 169,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_118287.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/1-5uF-155-10-25V_C117029_front_10.jpg"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png",
+            "team": false
+          },
+          "tags": [
+            "Tantalum Capacitors"
+          ],
+          "updateTime": 1672549804,
+          "updated_at": "2023-02-18 12:24:44",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "6.3.40",
+              "c_para": {
+                "nameAlias": "Capacitance",
+                "name": "T491B155K025AT",
+                "package": "CAP-SMD_L3.5-W2.8-R-RD",
+                "BOM_Supplier": "LCSC",
+                "BOM_Manufacturer": "KEMET(\u57fa\u7f8e)",
+                "BOM_Manufacturer Part": "T491B155K025AT",
+                "pre": "C?",
+                "Capacitance": "1.5uF",
+                "BOM_Supplier Part": "C117029",
+                "BOM_JLCPCB Part Class": "Extended Part"
+              },
+              "x": 15,
+              "y": 0,
+              "puuid": "d7687a3218c1452287141642df3cd5ed",
+              "uuid": "34288135f610455084a496432508665e",
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "hasIdFlag": true,
+              "utime": 1588600033
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~15~0",
+            "shape": [
+              "PL~17 8 17 -8~#880000~1~0~none~rep2~0",
+              "PL~13 8 13 -8~#880000~1~0~none~rep3~0",
+              "P~show~1~1~30~0~0~rep4~0^^30~0^^M 30 0 h -10~#000000^^0~15~3~0~1~end~~~#000000^^0~25~-1~0~1~start~~~#000000^^0~23~0^^0~M 20 -3 L 17 0 L 20 3",
+              "P~show~1~2~0~0~180~rep5~0^^0~0^^M 0 0 h 10~#000000^^0~15~3~0~2~start~~~#000000^^0~5~-1~0~2~end~~~#000000^^0~7~0^^0~M 10 3 L 13 0 L 10 -3",
+              "PL~20 0 17 0~#880000~1~0~none~rep6~0",
+              "PL~13 0 10 0~#880000~1~0~none~rep7~0",
+              "PL~25 4 21 4~#880000~1~0~none~rep8~0",
+              "PL~23 6 23 2~#880000~1~0~none~rep9~0"
+            ],
+            "BBox": {
+              "x": -1.1,
+              "y": -8,
+              "width": 32.1,
+              "height": 16
+            },
+            "colors": []
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "0054b7a29e974f09aff3838a9a38f626",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "d7687a3218c1452287141642df3cd5ed",
+            "title": "CAP-SMD_L3.5-W2.8-R-RD",
+            "docType": 4,
+            "updateTime": 1653542665,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "17a31c54b4d745e18ae6fdcf2e21da62",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.4.29",
+                "c_para": {
+                  "pre": "C?",
+                  "package": "CAP-SMD_L3.5-W2.8-R-RD",
+                  "Contributor": "lcsc",
+                  "link": "https:\/\/atta.szlcsc.com\/upload\/public\/pdf\/source\/20160107\/1457707745471.pdf",
+                  "3DModel": "CASE-B_L3.5-W2.8-H1.9"
+                },
+                "x": 4000,
+                "y": 3000,
+                "importFlag": 0,
+                "transformList": "",
+                "uuid": "d7687a3218c1452287141642df3cd5ed",
+                "utime": 1642493392,
+                "hasIdFlag": true,
+                "newgId": true
+              },
+              "canvas": "CA~1000~1000~#000000~yes~#FFFFFF~10~1000~1000~line~0.5~mm~1~45~visible~0.5~4000~3000~0~none",
+              "shape": [
+                "CIRCLE~4006.8898~2994.4882~0.1181~0.2362~101~gge1047~0~~",
+                "SOLIDREGION~12~~M 3993.937 3000.4134 L 3993.937 2999.5866 L 3997.2441 2999.5866 L 3997.2441 3000.4134 Z~solid~gge1011~~~~0",
+                "SOLIDREGION~12~~M 4006.063 3000.4134 L 4006.063 2999.5866 L 4002.7559 2999.5866 L 4002.7559 3000.4134 Z~solid~gge1012~~~~0",
+                "SOLIDREGION~12~~M 4004.8228 3002.7559 L 4004.8228 2997.2441 L 4003.9961 2997.2441 L 4003.9961 3002.7559 Z~solid~gge1013~~~~0",
+                "SOLIDREGION~12~~M 4006.8898 3005.5118 L 4006.8898 3002.7559 L 4005.2362 3002.7559 L 4005.2362 3005.5118 Z~solid~gge1014~~~~0",
+                "SOLIDREGION~12~~M 4006.8898 2994.4882 L 4006.8898 2997.2441 L 4005.2362 2997.2441 L 4005.2362 2994.4882 Z~solid~gge1015~~~~0",
+                "SOLIDREGION~99~~M 3993.1102 3005.5118 L 3993.1102 2994.4882 L 4006.8898 2994.4882 L 4006.8898 3005.5118 Z~solid~gge999~~~~0",
+                "TRACK~0.6~3~~4002.5 2994.1882 4002.5 3005.8118~gge1036~0",
+                "TRACK~0.6~3~~3992.8103 2994.1882 4007.1897 2994.1882~gge1038~0",
+                "TRACK~0.6~3~~3992.8103 3005.8118 4007.1897 3005.8118~gge1037~0",
+                "TRACK~0.6~3~~3992.8103 2994.1882 3992.8103 2994.5227~gge1035~0",
+                "TRACK~0.6~3~~3992.8103 3005.8118 3992.8103 3005.4773~gge1034~0",
+                "SOLIDREGION~3~~M 4006.8898 2993.8882 L 4006.8898 2994.7228 L 4008.6898 2994.7228 L 4008.6898 2993.8882 Z~solid~gge1007~~~~0",
+                "SOLIDREGION~3~~M 4006.8898 3006.1118 L 4006.8898 3005.2772 L 4008.6898 3005.2772 L 4008.6898 3006.1118 Z~solid~gge1008~~~~0",
+                "PAD~RECT~4007.475~3000~7.4803~9.3543~1~~1~0~4003.7348 2995.3229 4011.2152 2995.3229 4011.2152 3004.6772 4003.7348 3004.6772~0~gge1002~0~~Y~0~0.0000~0.2000~4007.4746,3000",
+                "PAD~RECT~3992.525~3000~7.4803~9.3543~1~~2~0~3988.7848 2995.3229 3996.2652 2995.3229 3996.2652 3004.6772 3988.7848 3004.6772~0~gge1003~0~~Y~0~0.0000~0.2000~3992.5254,3000",
+                "SOLIDREGION~100~~M 3993.1102 3004.3307 L 3993.1102 2995.6693 L 3995.8661 2995.6693 L 3995.8661 3004.3307 Z ~solid~gge1000~~~~0",
+                "SOLIDREGION~100~~M 4006.8898 3004.3307 L 4006.8898 2995.6693 L 4004.1339 2995.6693 L 4004.1339 3004.3307 Z ~solid~gge1001~~~~0",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"14.5669\",\"c_height\":\"11.0236\",\"c_rotation\":\"0,0,180\",\"z\":\"0\",\"c_origin\":\"3998.31,3005\",\"uuid\":\"be180c9a1661454f9e1962b18a691e3d\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"CASE-B_L3.5-W2.8-H1.9\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"4001.85 3001.1 4001.85 3000.35 4001.85 2999.65 4001.85 2998.9 4001.84 2998.9 4001.82 2998.9 4001.79 2998.9 4001.75 2998.9 4001.7 2998.9 4001.65 2998.9 4001.65 2998.6 3998.35 2998.6 3998.35 2998.9 3998.3 2998.9 3998.25 2998.9 3998.21 2998.9 3998.18 2998.9 3998.16 2998.9 3998.15 2998.9 3998.15 2999.65 3998.15 2999.7 3998.15 3000.3 3998.15 3000.34 3998.15 3000.35 3998.15 3001.1 3998.16 3001.1 3998.18 3001.1 3998.21 3001.1 3998.25 3001.1 3998.3 3001.1 3998.35 3001.1 3998.35 3001.4 4001.65 3001.4 4001.65 3001.1 4001.7 3001.1 4001.75 3001.1 4001.79 3001.1 4001.82 3001.1 4001.84 3001.1 4001.85 3001.1 4001.85 3001.1\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~false~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~false~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~true~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~false~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 3988.8,
+                "y": 2993.9,
+                "width": 22.4,
+                "height": 12.2
+              }
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            5,
+            "0.1893",
+            "0.1893"
+          ],
+          [
+            50,
+            "0.1574",
+            "0.1574"
+          ],
+          [
+            150,
+            "0.1437",
+            "0.1437"
+          ],
+          [
+            500,
+            "0.1267",
+            "0.1267"
+          ],
+          [
+            2000,
+            "0.1191",
+            "0.1191"
+          ],
+          [
+            4000,
+            "0.1145",
+            "0.1145"
+          ]
+        ],
+        "stock": 4046,
+        "mpn": "T491A475K010AT",
+        "number": "C117026",
+        "package": "CASE-A-3216",
+        "manufacturer": "KEMET",
+        "url": "\/product-detail\/Tantalum-Capacitors_KEMET-T491A475K010AT_C117026.html",
+        "image": [
+          {
+            "sort": 1,
+            "type": "front",
+            "900x900": "https:\/\/assets.lcsc.com\/images\/lcsc\/900x900\/20230101_KEMET-T491A475K010AT_C117026_front.jpg",
+            "224x224": "https:\/\/assets.lcsc.com\/images\/lcsc\/224x224\/20230101_KEMET-T491A475K010AT_C117026_front.jpg",
+            "96x96": "https:\/\/assets.lcsc.com\/images\/lcsc\/96x96\/20230101_KEMET-T491A475K010AT_C117026_front.jpg"
+          }
+        ],
+        "mfrLink": "\/brand-detail\/435.html",
+        "component": {
+          "uuid": "76384f0e706141f99d761ec5d8e5d43f",
+          "title": "T491A475K010AT",
+          "description": "",
+          "docType": 2,
+          "type": 3,
+          "lcsc": {
+            "id": 118284,
+            "number": "C117026",
+            "step": 5,
+            "min": 5,
+            "price": 0.1327,
+            "stock": 28565,
+            "url": "https:\/\/lcsc.com\/product-detail\/Tantalum-Capacitors_KEMET_T491A475K010AT_4-7uF-475-10-10V_C117026.html"
+          },
+          "szlcsc": {
+            "id": 118284,
+            "number": "C117026",
+            "step": 5,
+            "min": 5,
+            "price": 0.738496,
+            "stock": 3370,
+            "url": "http:\/\/www.szlcsc.com\/product\/details_118284.html",
+            "image": "https:\/\/assets.lcsc.com\/images\/szlcsc\/96x96\/KEMET-T491A475K010AT_C117026_front_10.jpg"
+          },
+          "owner": {
+            "uuid": "0819f05c4eef4c71ace90d822a990e87",
+            "username": "LCSC",
+            "nickname": "LCSC",
+            "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+          },
+          "tags": [
+            "Tantalum Capacitors"
+          ],
+          "updateTime": 1673000951,
+          "updated_at": "2023-02-18 12:24:44",
+          "dataStr": {
+            "head": {
+              "docType": "2",
+              "editorVersion": "6.5.23",
+              "x": 400,
+              "y": 320,
+              "c_para": {
+                "pre": "C?",
+                "name": "T491A475K010AT",
+                "package": "CASE-A_3216",
+                "BOM_Supplier": "LCSC",
+                "BOM_Supplier Part": "C117026",
+                "BOM_Manufacturer": "KEMET(\u57fa\u7f8e)",
+                "BOM_Manufacturer Part": "T491A475K010AT",
+                "Capacitance": "4.7uF",
+                "nameAlias": "Capacitance",
+                "Contributor": "LCSC",
+                "BOM_JLCPCB Part Class": "Extended Part"
+              },
+              "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+              "utime": 1673000951,
+              "uuid": "76384f0e706141f99d761ec5d8e5d43f",
+              "importFlag": 0,
+              "c_spiceCmd": null,
+              "hasIdFlag": true
+            },
+            "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~10~1000~1000~line~10~pixel~5~400~320",
+            "shape": [
+              "PL~397 328 397 312~#880000~1~0~none~gge3~0",
+              "P~show~1~1~410~320~0~gge4~0^^410~320^^M 410 320 h -10~#000000^^0~395~323~0~1~end~~~#000000^^0~405~319~0~1~start~~~#000000^^0~403~320^^0~M 400 317 L 397 320 L 400 323",
+              "P~show~1~2~380~320~180~gge11~0^^380~320^^M 380 320 h 10~#000000^^0~395~323~0~2~start~~~#000000^^0~385~319~0~2~end~~~#000000^^0~387~320^^0~M 390 323 L 393 320 L 390 317",
+              "PL~400 320 397 320~#880000~1~0~none~gge18~0",
+              "PL~393 320 390 320~#880000~1~0~none~gge19~0",
+              "A~M 389.778 327.667 A 9 10 0 0 0 390.253 312.807~~#880000~1~0~none~gge20~0",
+              "PL~405 323 401 323~#880000~1~0~none~gge21~0",
+              "PL~403 325 403 321~#880000~1~0~none~gge22~0"
+            ],
+            "BBox": {
+              "x": 379,
+              "y": 312,
+              "width": 32,
+              "height": 16
+            },
+            "colors": []
+          },
+          "verify": true,
+          "SMT": true,
+          "datastrid": "e4edab27a5fb47d1a765e91b2c48c711",
+          "jlcOnSale": 1,
+          "writable": false,
+          "isFavorite": false,
+          "packageDetail": {
+            "uuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "title": "CASE-A_3216",
+            "docType": 4,
+            "updateTime": 1661146950,
+            "owner": {
+              "uuid": "0819f05c4eef4c71ace90d822a990e87",
+              "username": "lcsc",
+              "nickname": "LCSC",
+              "avatar": "\/\/image.lceda.cn\/avatars\/2018\/6\/kFlrasi7W06gTdBLAqW3fkrqbDhbowynuSzkjqso.png"
+            },
+            "datastrid": "7b58e8ff08904aa6ba5f0e9a1ea77940",
+            "writable": false,
+            "dataStr": {
+              "head": {
+                "docType": "4",
+                "editorVersion": "6.5.5",
+                "x": 400.155,
+                "y": 300.1,
+                "c_para": {
+                  "pre": "C?",
+                  "package": "CASE-A_3216",
+                  "timeStamp": "1474160109",
+                  "sourceId": "EXHd7pjBu",
+                  "Contributor": "lcsc",
+                  "link": "https:\/\/item.szlcsc.com\/2057730.html",
+                  "3DModel": "CASE-A_L3.2-W1.6-H1.6"
+                },
+                "importFlag": 0,
+                "transformList": "",
+                "uuid": "ce25118ef0b041b8a773e71ca28ae65d",
+                "utime": 1653534749,
+                "hasIdFlag": true,
+                "uuid_3d": "dd60b208bcad430cab142cfe5b3d8455"
+              },
+              "canvas": "CA~1000~1000~black~yes~#ffffff~10~1000~1000~line~0.1~mm~0.315~0~visible~0.1~400.155~300.1~0~yes",
+              "shape": [
+                "CIRCLE~393.8555~303.2496~0.1181~0.2362~101~gge1063~0~~",
+                "SOLIDREGION~100~~M 397.0051 297.6375 L 397.0051 302.3619 L 393.8555 302.3619 L 393.8555 297.6375 Z ~solid~gge1054~~~~0",
+                "SOLIDREGION~100~~M 406.4539 297.6377 L 406.4539 302.3621 L 403.3043 302.3621 L 403.3043 297.6377 Z ~solid~gge1055~~~~0",
+                "SOLIDREGION~99~~M 393.8555 296.9504 L 406.4539 296.9504 L 406.4539 303.2496 L 393.8555 303.2496 Z ~solid~gge17~~~~0",
+                "TRACK~0.315~3~~393.955 303.25 406.355 303.25~gge1031~0",
+                "TRACK~0.315~3~~393.855 296.95 406.455 296.95~gge1029~0",
+                "TRACK~0.315~3~~398.8814 303.25 398.8961 296.95~gge1035~0",
+                "PAD~RECT~395.431~300.1~5.9055~5.35~1~~1~0~392.4778 297.425 398.3834 297.425 398.3834 302.775 392.4778 302.775~0~rep5~0~~Y~0~0~0.2~395.4306,300.1",
+                "PAD~RECT~404.879~300.1~5.9055~5.35~1~~2~0~401.9266 297.425 407.8321 297.425 407.8321 302.775 401.9266 302.775~0~rep6~0~~Y~0~0~0.2~404.8794,300.1",
+                "SOLIDREGION~12~~M 406.063 299.5866 L 406.063 300.4134 L 402.7559 300.4134 L 402.7559 299.5866 Z ~solid~gge1020~~~~0",
+                "SOLIDREGION~12~~M 394 296.9 L 394.8 296.9 L 394.8 298.2 L394,298.2 Z~solid~gge1037~~~~0",
+                "SOLIDREGION~12~~M 394.7874 303.3 L 393.9874 303.3 L 393.9874 302 L 394.7874 302 Z~solid~gge1039~~~~0",
+                "SOLIDREGION~12~~M 397.7536 299.5866 L 397.7536 300.4134 L 394.4465 300.4134 L 394.4465 299.5866 Z ~solid~gge1041~~~~0",
+                "SOLIDREGION~12~~M 395.9 297.25 L 396.7 297.25 L 396.7 302.75 L 395.9 302.75 Z ~solid~gge1044~~~~0",
+                "SVGNODE~{\"gId\":\"g1_outline\",\"nodeName\":\"g\",\"nodeType\":1,\"layerid\":\"19\",\"attrs\":{\"c_width\":\"12.5984\",\"c_height\":\"6.2992\",\"c_rotation\":\"0,0,0\",\"z\":\"0\",\"c_origin\":\"400.1547,300.1\",\"uuid\":\"fdf70981c03c4853ba5eb9402bf139b0\",\"c_etype\":\"outline3D\",\"id\":\"g1_outline\",\"title\":\"CASE-A_L3.2-W1.6-H1.6\",\"layerid\":\"19\",\"transform\":\"scale(1) translate(0, 0)\"},\"childNodes\":[{\"gId\":\"g1_outline_line0\",\"nodeName\":\"polyline\",\"nodeType\":1,\"attrs\":{\"fill\":\"none\",\"id\":\"g1_outline_line0\",\"c_shapetype\":\"line\",\"points\":\"393.8555 297.7378 393.8555 298.7221 393.8555 301.478 393.8555 301.6354 393.8555 302.4622 393.8948 302.4622 393.9736 302.4622 394.0917 302.4622 394.2492 302.4622 394.446 302.4622 394.6429 302.4622 394.6429 303.2496 405.6665 303.2496 405.6665 302.4622 405.8633 302.4622 406.0602 302.4622 406.2176 302.4622 406.3357 302.4622 406.4145 302.4622 406.4539 302.4622 406.4539 301.478 406.4539 301.2811 406.4539 298.9189 406.4539 298.7614 406.4539 298.7221 406.4539 298.5646 406.4539 297.7378 406.4145 297.7378 406.3357 297.7378 406.2176 297.7378 406.0602 297.7378 405.8633 297.7378 405.6665 297.7378 405.6665 296.9504 394.6429 296.9504 394.6429 297.7378 394.446 297.7378 394.2492 297.7378 394.0917 297.7378 393.9736 297.7378 393.8948 297.7378 393.8555 297.7378 393.8555 297.7378\"}}]}"
+              ],
+              "layers": [
+                "1~TopLayer~#FF0000~true~false~true~",
+                "2~BottomLayer~#0000FF~true~false~true~",
+                "3~TopSilkLayer~#FFCC00~true~false~true~",
+                "4~BottomSilkLayer~#66CC33~true~false~true~",
+                "5~TopPasteMaskLayer~#808080~true~false~true~",
+                "6~BottomPasteMaskLayer~#800000~true~false~true~",
+                "7~TopSolderMaskLayer~#800080~true~false~true~0.3",
+                "8~BottomSolderMaskLayer~#AA00FF~true~false~true~0.3",
+                "9~Ratlines~#6464FF~true~false~true~",
+                "10~BoardOutLine~#FF00FF~true~false~true~",
+                "11~Multi-Layer~#FFFFFF~true~false~true~0.5",
+                "12~Document~#FFFFFF~true~true~true~",
+                "13~TopAssembly~#33CC99~true~false~true~",
+                "14~BottomAssembly~#5555FF~true~false~true~",
+                "15~Mechanical~#F022F0~true~false~true~",
+                "19~3DModel~#66CCFF~true~false~true~",
+                "21~Inner1~#800000~false~false~false~~",
+                "22~Inner2~#008000~false~false~false~~",
+                "23~Inner3~#00FF00~false~false~false~~",
+                "24~Inner4~#BC8E00~false~false~false~~",
+                "25~Inner5~#70DBFA~false~false~false~~",
+                "26~Inner6~#00CC66~false~false~false~~",
+                "27~Inner7~#9966FF~false~false~false~~",
+                "28~Inner8~#800080~false~false~false~~",
+                "29~Inner9~#008080~false~false~false~~",
+                "30~Inner10~#15935F~false~false~false~~",
+                "31~Inner11~#000080~false~false~false~~",
+                "32~Inner12~#00B400~false~false~false~~",
+                "33~Inner13~#2E4756~false~false~false~~",
+                "34~Inner14~#99842F~false~false~false~~",
+                "35~Inner15~#FFFFAA~false~false~false~~",
+                "36~Inner16~#99842F~false~false~false~~",
+                "37~Inner17~#2E4756~false~false~false~~",
+                "38~Inner18~#3535FF~false~false~false~~",
+                "39~Inner19~#8000BC~false~false~false~~",
+                "40~Inner20~#43AE5F~false~false~false~~",
+                "41~Inner21~#C3ECCE~false~false~false~~",
+                "42~Inner22~#728978~false~false~false~~",
+                "43~Inner23~#39503F~false~false~false~~",
+                "44~Inner24~#0C715D~false~false~false~~",
+                "45~Inner25~#5A8A80~false~false~false~~",
+                "46~Inner26~#2B937E~false~false~false~~",
+                "47~Inner27~#23999D~false~false~false~~",
+                "48~Inner28~#45B4E3~false~false~false~~",
+                "49~Inner29~#215DA1~false~false~false~~",
+                "50~Inner30~#4564D7~false~false~false~~",
+                "51~Inner31~#6969E9~false~false~false~~",
+                "52~Inner32~#9069E9~false~false~false~~",
+                "99~ComponentShapeLayer~#00CCCC~true~false~true~0.4",
+                "100~LeadShapeLayer~#CC9999~true~false~true~",
+                "101~ComponentPolarityLayer~#66FFCC~true~false~true~",
+                "Hole~Hole~#222222~false~false~true~",
+                "DRCError~DRCError~#FAD609~false~false~true~"
+              ],
+              "objects": [
+                "All~true~false",
+                "Component~true~true",
+                "Prefix~true~true",
+                "Name~true~false",
+                "Track~true~true",
+                "Pad~true~true",
+                "Via~true~true",
+                "Hole~true~true",
+                "Copper_Area~true~true",
+                "Circle~true~true",
+                "Arc~true~true",
+                "Solid_Region~true~true",
+                "Text~true~true",
+                "Image~true~true",
+                "Rect~true~true",
+                "Dimension~true~true",
+                "Protractor~true~true"
+              ],
+              "BBox": {
+                "x": 392.5,
+                "y": 296.9,
+                "width": 15.4,
+                "height": 6.5
+              },
+              "netColors": []
+            }
+          }
+        }
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.9737",
+            "0.9737"
+          ],
+          [
+            200,
+            "0.3771",
+            "0.3771"
+          ],
+          [
+            500,
+            "0.3644",
+            "0.3644"
+          ],
+          [
+            1000,
+            "0.3580",
+            "0.3580"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-33-25E-33.000000X",
+        "number": "C1170702",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-33-25E-33-000000X_C1170702.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "12.7814",
+            "12.7814"
+          ],
+          [
+            200,
+            "4.9478",
+            "4.9478"
+          ],
+          [
+            500,
+            "4.7728",
+            "4.7728"
+          ],
+          [
+            1000,
+            "4.6869",
+            "4.6869"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT3373AI-2E9-30NB625.000000Y",
+        "number": "C1117020",
+        "package": "SMD-6P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT3373AI-2E9-30NB625-000000Y_C1117020.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "12.7814",
+            "12.7814"
+          ],
+          [
+            200,
+            "4.9478",
+            "4.9478"
+          ],
+          [
+            500,
+            "4.7728",
+            "4.7728"
+          ],
+          [
+            1000,
+            "4.6869",
+            "4.6869"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT3373AI-2E9-25NB222.750000Y",
+        "number": "C1117026",
+        "package": "SMD-6P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT3373AI-2E9-25NB222-750000Y_C1117026.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "12.7814",
+            "12.7814"
+          ],
+          [
+            200,
+            "4.9478",
+            "4.9478"
+          ],
+          [
+            500,
+            "4.7728",
+            "4.7728"
+          ],
+          [
+            1000,
+            "4.6869",
+            "4.6869"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT3373AI-4E9-30NZ270.000000Y",
+        "number": "C1117027",
+        "package": "SMD-6P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT3373AI-4E9-30NZ270-000000Y_C1117027.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.9737",
+            "0.9737"
+          ],
+          [
+            200,
+            "0.3771",
+            "0.3771"
+          ],
+          [
+            500,
+            "0.3644",
+            "0.3644"
+          ],
+          [
+            1000,
+            "0.3580",
+            "0.3580"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-33-18N-66.660000T",
+        "number": "C1170201",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-33-18N-66-660000T_C1170201.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.5425",
+            "0.5425"
+          ],
+          [
+            200,
+            "0.2100",
+            "0.2100"
+          ],
+          [
+            500,
+            "0.2037",
+            "0.2037"
+          ],
+          [
+            1000,
+            "0.1989",
+            "0.1989"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-13-30N-40.500000D",
+        "number": "C1170202",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-13-30N-40-500000D_C1170202.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.9005",
+            "0.9005"
+          ],
+          [
+            200,
+            "0.3485",
+            "0.3485"
+          ],
+          [
+            500,
+            "0.3373",
+            "0.3373"
+          ],
+          [
+            1000,
+            "0.3310",
+            "0.3310"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-23-28N-19.200000G",
+        "number": "C1170205",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-23-28N-19-200000G_C1170205.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.8782",
+            "0.8782"
+          ],
+          [
+            200,
+            "0.3405",
+            "0.3405"
+          ],
+          [
+            500,
+            "0.3294",
+            "0.3294"
+          ],
+          [
+            1000,
+            "0.3230",
+            "0.3230"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BC-23-18N-66.660000G",
+        "number": "C1170206",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BC-23-18N-66-660000G_C1170206.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.5425",
+            "0.5425"
+          ],
+          [
+            200,
+            "0.2100",
+            "0.2100"
+          ],
+          [
+            500,
+            "0.2037",
+            "0.2037"
+          ],
+          [
+            1000,
+            "0.1989",
+            "0.1989"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT8008BC-13-18E-80.000000D",
+        "number": "C1170208",
+        "package": "SMD2520-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT8008BC-13-18E-80-000000D_C1170208.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.5425",
+            "0.5425"
+          ],
+          [
+            200,
+            "0.2100",
+            "0.2100"
+          ],
+          [
+            500,
+            "0.2037",
+            "0.2037"
+          ],
+          [
+            1000,
+            "0.1989",
+            "0.1989"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-13-18N-33.333300E",
+        "number": "C1170212",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-13-18N-33-333300E_C1170212.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.6507",
+            "0.6507"
+          ],
+          [
+            200,
+            "0.2514",
+            "0.2514"
+          ],
+          [
+            500,
+            "0.2435",
+            "0.2435"
+          ],
+          [
+            1000,
+            "0.2387",
+            "0.2387"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-23-18E-37.500000D",
+        "number": "C1170213",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-23-18E-37-500000D_C1170213.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.6507",
+            "0.6507"
+          ],
+          [
+            200,
+            "0.2514",
+            "0.2514"
+          ],
+          [
+            500,
+            "0.2435",
+            "0.2435"
+          ],
+          [
+            1000,
+            "0.2387",
+            "0.2387"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BC-23-18N-33.333000E",
+        "number": "C1170216",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BC-23-18N-33-333000E_C1170216.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.9005",
+            "0.9005"
+          ],
+          [
+            200,
+            "0.3485",
+            "0.3485"
+          ],
+          [
+            500,
+            "0.3373",
+            "0.3373"
+          ],
+          [
+            1000,
+            "0.3310",
+            "0.3310"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-23-30N-74.250000G",
+        "number": "C1170220",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-23-30N-74-250000G_C1170220.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.9498",
+            "0.9498"
+          ],
+          [
+            200,
+            "0.3675",
+            "0.3675"
+          ],
+          [
+            500,
+            "0.3548",
+            "0.3548"
+          ],
+          [
+            1000,
+            "0.3485",
+            "0.3485"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BC-33-25N-66.666000T",
+        "number": "C1170221",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BC-33-25N-66-666000T_C1170221.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.6507",
+            "0.6507"
+          ],
+          [
+            200,
+            "0.2514",
+            "0.2514"
+          ],
+          [
+            500,
+            "0.2435",
+            "0.2435"
+          ],
+          [
+            1000,
+            "0.2387",
+            "0.2387"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BI-23-XXE-38.000000D",
+        "number": "C1170222",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BI-23-XXE-38-000000D_C1170222.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.9005",
+            "0.9005"
+          ],
+          [
+            200,
+            "0.3485",
+            "0.3485"
+          ],
+          [
+            500,
+            "0.3373",
+            "0.3373"
+          ],
+          [
+            1000,
+            "0.3310",
+            "0.3310"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BIL23-33E-50.000000E",
+        "number": "C1170223",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BIL23-33E-50-000000E_C1170223.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      },
+      {
+        "ifRoHS": true,
+        "price": [
+          [
+            1,
+            "0.9498",
+            "0.9498"
+          ],
+          [
+            200,
+            "0.3675",
+            "0.3675"
+          ],
+          [
+            500,
+            "0.3548",
+            "0.3548"
+          ],
+          [
+            1000,
+            "0.3485",
+            "0.3485"
+          ]
+        ],
+        "stock": 0,
+        "mpn": "SIT1602BC-33-XXN-24.000000X",
+        "number": "C1170224",
+        "package": "SMD-4P",
+        "manufacturer": "SiTime",
+        "url": "\/product-detail\/Pre-programmed-Oscillators_SiTime-SIT1602BC-33-XXN-24-000000X_C1170224.html",
+        "image": [],
+        "mfrLink": "\/brand-detail\/295.html"
+      }
+    ]
+  }
+}

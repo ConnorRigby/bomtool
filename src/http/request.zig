@@ -44,7 +44,7 @@ pub fn Request(
         }
 
         pub fn prepare(self: *Self, ctx: *Http.Context) !void {
-            std.debug.print("prepare={*}{any}\n\n\n\n", .{self.route, self.route});
+            std.debug.print("prepare={*}{any}\n\n\n\n", .{ self.route, self.route });
             switch (self.state) {
                 .init => {},
                 inline else => |invalid| std.log.err("Invalid state: {s} for request: {any}", .{ @tagName(invalid), self }),

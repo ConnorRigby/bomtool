@@ -1,1 +1,0 @@
-pub const Model = @import("model.zig");
