@@ -137,7 +137,7 @@ pub fn perform(self: *Http, request_url: [:0]const u8) !Response {
     if (cURL.curl_url_get(url, cURL.CURLUPART_URL, &url_str, 0) != cURL.CURLE_OK)
         return error.curl_url_get;
 
-    // std.debug.print("starting request: {s}\n", .{url_str});
+    std.debug.print("starting request: {s}\n", .{url_str});
 
     if (cURL.curl_easy_setopt(handle, cURL.CURLOPT_URL, url_str) != cURL.CURLE_OK)
         return error.CURLUPART_URL;

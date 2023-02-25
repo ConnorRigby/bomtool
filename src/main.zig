@@ -6,6 +6,28 @@ const symbol = @import("symbol.zig");
 const library = @import("library.zig");
 const easyeda = @import("easyeda.zig");
 
+fn search_recurse(
+    http: *Http,
+    query_string: []const u8,
+    id: []const u8,
+    symbols: *std.ArrayList(symbol.ProductSymbol),
+    page: ?usize,
+) !void {
+    const search = try easyeda.search(http, query_string, page);
+    defer easyeda.free(http, search);
+
+    var need_next_page = false;
+    if (search.find_product_by_number(id)) |product| {
+        std.log.info("found product: {s}", .{id});
+        try symbols.append(try symbol.from_product(http.allocator, &product));
+    } else {
+        std.log.info("product {s} not found on this page (size={d})", .{ id, search.result.?.productList.?.len });
+        need_next_page = true;
+    }
+
+    if (need_next_page) return try search_recurse(http, query_string, id, symbols, (page orelse 1) + 1);
+}
+
 pub fn main() !void {
     // stdout is for the actual output of your application, for example if you
     // are implementing gzip, then only the compressed bytes should be sent to
@@ -30,22 +52,16 @@ pub fn main() !void {
         try ids.append(id);
     }
 
-    var query = try std.mem.join(allocator, " ", ids.items);
-    defer allocator.free(query);
-
-    const query_string = try std.Uri.escapeString(allocator, query);
-    defer allocator.free(query_string);
-
-    const search = try easyeda.search(&http, query_string);
-    defer easyeda.free(&http, search);
-
-    var symbols = std.ArrayList(symbol.Resistor).init(allocator);
+    var symbols = std.ArrayList(symbol.ProductSymbol).init(allocator);
     defer symbols.deinit();
 
     for (ids.items) |id| {
-        if (search.find_product_by_number(id)) |product| {
-            try symbols.append(try symbol.resistor(allocator, &product));
-        } else std.log.err("Failed to find product by id: {s}", .{id});
+        // var query = try std.mem.join(allocator, " ", ids.items);
+        // defer allocator.free(query);
+
+        const query_string = try std.Uri.escapeString(allocator, id);
+        defer allocator.free(query_string);
+        try search_recurse(&http, query_string, id, &symbols, null);
     }
 
     // defer allocator.free(resistor);

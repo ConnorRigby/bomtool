@@ -13,8 +13,9 @@ pub fn free(client: *Http, value: anytype) void {
     std.json.parseFree(@TypeOf(value), value, options);
 }
 
-pub fn search(client: *Http, keyword: []const u8) !Search {
-    const url: [:0]const u8 = try std.fmt.allocPrintZ(client.allocator, "https://easyeda.com/api/eda/product/search?version=6.5.22&keyword={s}&needComponents=true", .{keyword});
+pub fn search(client: *Http, keyword: []const u8, page: ?usize) !Search {
+    const base = "https://easyeda.com/api/eda/product/search?version=6.5.22&keyword={s}&needComponents=true&needAggs=true&pageSize=10";
+    const url: [:0]const u8 = if (page) |p| try std.fmt.allocPrintZ(client.allocator, base ++ "?&currPage={d}", .{ keyword, p }) else try std.fmt.allocPrintZ(client.allocator, base, .{keyword});
     defer client.allocator.free(url);
 
     var response = try client.perform(url);
