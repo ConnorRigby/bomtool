@@ -3,6 +3,7 @@ const std = @import("std");
 const properties = @import("../properties.zig");
 const ManufacturerPartNumber = properties.ManufacturerPartNumber;
 const SupplierPartNumber = properties.SupplierPartNumber;
+const Property = properties.Property;
 
 pub const Package = enum {
     @"0402",
@@ -53,11 +54,6 @@ pub fn footprint(self: *const @This()) []const u8 {
     };
 }
 
-pub fn property(self: *const @This()) []const u8 {
-    _ = self;
-    return "Capacitance";
-}
-
-pub fn property_value(self: *const @This()) []const u8 {
-    return self.capacitance;
+pub fn props(self: *const @This()) []Property {
+    return &[_]Property{.{ .name = "Capacitance", .value = self.capacitance, .justify = "(justify left)", .at = "0.762 -1.016 0" }};
 }
