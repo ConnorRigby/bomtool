@@ -1,4 +1,4 @@
-ZIG_VERSION  := 0.11.0-dev.1501+885d69689
+ZIG_VERSION  := 0.11.0-dev.1812+26196be34
 ZIG_BASE_URL := https://ziglang.org/builds
 ZIG_LINUX    := zig-linux-x86_64-$(ZIG_VERSION)
 ZIG_ARCHIVE  := $(ZIG_LINUX).tar.xz

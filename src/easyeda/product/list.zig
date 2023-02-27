@@ -25,7 +25,7 @@ pub fn manufacturers(self: *const @This(), allocator: std.mem.Allocator) ![]Manu
     var list = try std.ArrayList(Manufacturer).initCapacity(allocator, id_list.len);
     errdefer list.deinit();
 
-    for (id_list) |id, index| try list.append(.{ .id = id, .name = value_list[index] });
+    for (id_list, 0..) |id, index| try list.append(.{ .id = id, .name = value_list[index] });
     return list.toOwnedSlice();
 }
 

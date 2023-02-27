@@ -131,7 +131,7 @@ pub fn render(comptime T: type, symbol: *const T, allocator: std.mem.Allocator) 
     var properties_list = std.ArrayList(u8).init(allocator);
     defer properties_list.deinit();
 
-    for (symbol.props()) |property, i| {
+    for (symbol.props(), 0..) |property, i| {
         std.debug.print("prop.name = {s} .value={s} .at={s} .justify={s}\n\n", .{ property.name, property.value, property.at, property.justify });
         const prop_str = try render_property(allocator, property.name, property.value, 10 + i, property.at, property.justify);
         defer allocator.free(prop_str);
